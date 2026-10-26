@@ -1,4 +1,3 @@
-# projects
 # Düğün Organizasyonu Programı 💍
 
 C++ ile geliştirdiğim bu projede düğün bilgilerini, davetlileri ve masrafları yönetebileceğimiz menü tabanlı bir konsol programı yaptım.
