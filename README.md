@@ -1,4 +1,4 @@
-# Düğün Organizasyonu Programı 💍
+# Düğün Organizasyonu Programı
 
 C++ ile geliştirdiğim bu projede düğün bilgilerini, davetlileri ve masrafları yönetebileceğimiz menü tabanlı bir konsol programı yaptım.
 
@@ -9,11 +9,11 @@ C++ ile geliştirdiğim bu projede düğün bilgilerini, davetlileri ve masrafla
 - Bir düğüne ait tüm bilgileri tek sorguda görüntüleme
 
 ### Kullanılan C++ Yapıları
-- **Sınıflar ve nesneler (OOP)**
-- **Fonksiyonlar**
-- **Do-while döngüsü ve switch-case**
-- **Dosya işlemleri** (`ifstream`, `ofstream`)
-- **String işlemleri** (`find()`, `substr()`)
-- **Koşullu ifadeler**
+- Sınıflar ve nesneler (OOP)
+- Fonksiyonlar
+- Do-while döngüsü ve switch-case
+- Dosya işlemleri (`ifstream`, `ofstream`)
+- String işlemleri (`find()`, `substr()`)
+- Koşullu ifadeler
 
 Veriler `Dugunler.txt`, `Davetliler.txt` ve `Masraflar.txt` dosyalarında saklanıyor.
